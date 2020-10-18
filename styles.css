@@ -1,0 +1,29 @@
+body{
+  text-align: center;
+  margin: 0;
+}
+
+.top-container {
+  background-color: teal;
+  position: relative;
+  padding-top: 100px;
+  font-size: 40px;
+  font-family: fantasy;
+  font-weight: lighter;
+}
+
+h1{
+  margin-top: 0;
+}
+
+.top-cloud{
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.bottom-cloud{
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
